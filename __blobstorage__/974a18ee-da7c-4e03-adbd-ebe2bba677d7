@@ -1,0 +1,11 @@
+Diet_type,Recipe_name,Cuisine_type,Protein(g),Carbs(g),Fat(g)
+Keto,Grilled Chicken,American,45,5,20
+Keto,Avocado Salad,Mexican,10,8,25
+Vegan,Tofu Stir Fry,Chinese,20,30,10
+Vegan,Lentil Soup,Indian,18,35,5
+Mediterranean,Greek Salad,Greek,12,15,10
+Mediterranean,Grilled Fish,Italian,40,10,15
+Paleo,Steak and Veggies,American,50,12,30
+Paleo,Banana Pancakes,French,25,40,20
+Keto,Egg Omelette,American,30,3,18
+Vegan,Chickpea Curry,Indian,22,40,12
